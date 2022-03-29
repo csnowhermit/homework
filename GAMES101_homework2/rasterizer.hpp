@@ -1,7 +1,3 @@
-//
-// Created by goksu on 4/6/19.
-//
-
 #pragma once
 
 #include <eigen-3.3.9/eigen/Eigen>

@@ -1,7 +1,3 @@
-//
-// Created by LEI XU on 4/28/19.
-//
-//
 // This loader is created by Robert Smith.
 // https://github.com/Bly7/OBJ-Loader
 // Use the MIT license.
